@@ -1,2 +1,2 @@
 # Lab3
-Repositorio laboratorio 3 del ramo Laboratorio de Inteligencia Conputacional y Robótica
+Repositorio laboratorio 4 del ramo Laboratorio de Inteligencia Conputacional y Robótica
